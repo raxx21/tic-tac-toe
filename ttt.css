@@ -1,0 +1,28 @@
+td {
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    font-size: 80px;
+}
+
+table {
+    margin: auto;
+}
+
+#win {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+#winner {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+
+.cell:hover {
+    cursor: pointer;
+    background-color: gray;
+}
